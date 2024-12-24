@@ -1,6 +1,6 @@
 # Projetos de Análise de Dados com Power BI
 
-Este repositório contém uma coleção de projetos de análise de dados desenvolvidos para diferentes contextos e necessidades. Cada projeto utiliza ferramentas como Power BI, Banco de Dados e Python e outras técnicas de análise para extrair insights valiosos a partir de conjuntos de dados específicos.
+Este repositório contém uma coleção de projetos de análise de dados desenvolvidos para diferentes contextos e necessidades. Cada projeto utiliza ferramentas como Power BI, Bancos de Dados, Python e outras técnicas de análise para extrair insights valiosos a partir de conjuntos de dados específicos.
 
 ## Lista de Projetos
 
