@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/ef164c4b-92d1-44a2-ae07-5649db086474
 
 ## O Dashboard foi construido com base nas seguintes perguntas:
 
-1.**Qual o valor total vendido?**
+1. **Qual o valor total vendido?**
 
 Total de vendas globais
 Descrição: Visão consolidade do valor total de vendas gloabis e predição futuras baseadas em tendências históricas.
