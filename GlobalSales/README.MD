@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/ef164c4b-92d1-44a2-ae07-5649db086474
 
 **Link para acessar o dashboard no Power BI:** [Dashboard VendasGlobais](https://app.powerbi.com/view?r=eyJrIjoiYmRmMWNmYWQtM2NiNC00MjAyLWI4NDItMjUyMDc2NzQxNDYxIiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9)
 
-O Dashboard foi construido com base nas seguintes perguntas:
+## O Dashboard foi construido com base nas seguintes perguntas:
 
 1.**Qual o valor total vendido?**
 
