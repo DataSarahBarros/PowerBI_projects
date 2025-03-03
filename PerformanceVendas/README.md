@@ -9,14 +9,17 @@ https://github.com/user-attachments/assets/a4743edf-9af7-4328-a19c-cd22d8caa7d1
 
 ## As analises foram construidas com base nos seguintes KPIs (Key Performance Indicators):
 
-Volume de vendas
-Ticket médio
-Taxa de conversão
-Ciclo de vendas
-Retenção de clientes
-Lucratividade
-Produtividade da equipe de Vendas
-Satisfação do cliente
+1. Tipo da venda
+
+O tipo da venda trás uma narrativa inteligente com insights, incluindo uma analise por Volume de vendas por fabricante, um compartivo em percentual do volume de segmento dos produtos mais vendidos e uma analise das vendas por categoria.
+
+2. Performance por produtos
+
+Entrando no detalhe das vendas por mix de produtos, temos uma analise do atingimento das metas por marcas, atingimento das metas por segmento das marcas e o faturamento por categoria das marcas nos pontos de vendas. 
+
+3. Performance por vendedores
+
+Analisando o desempenho por vendedor, como por exemplo o atingimento das metas por colaborador no periodo e o custo da venda vs o faturamento por vendedor. A analise tras um indicador de atingimento.
 
 
 ## Ferramentas Utilizadas
