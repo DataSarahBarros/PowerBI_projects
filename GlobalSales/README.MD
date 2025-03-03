@@ -3,8 +3,7 @@
 
 ## Visão Geral
 O projeto Vendas Globais tem como objetivo principal criar um dashboard interativo no Power BI para analisar as vendas dos produtos oferecidos pela empresa.
-A análise abrange o total de vendas em diferentes granularidades, permitindo uma visão detalhada do desempenho das vendas por diferentes segmentos em
-diferentes países.
+A análise abrange o total de vendas em diferentes granularidades, permitindo uma visão detalhada do desempenho das vendas por diferentes segmentos em diferentes países.
 
 https://github.com/user-attachments/assets/ef164c4b-92d1-44a2-ae07-5649db086474
 
