@@ -5,13 +5,7 @@ O projeto Performance de Vendas tem como objetivo principal analisar o desempenh
 
 https://github.com/user-attachments/assets/a4743edf-9af7-4328-a19c-cd22d8caa7d1
 
-**Link para acessar o dashboard no Power BI:** [Dashboard VendasGlobais](https://app.powerbi.com/view?r=eyJrIjoiMWNjMTgxN2QtODRmZi00N2I2LTk3ZGUtZmIyZDM0OTBiMWM2IiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9)
-
-## As analises foram construidas com base nos seguintes KPIs (Key Performance Indicators):
-
-1. Tipo da venda
-
-O tipo da venda trás uma narrativa inteligente com insights, incluindo uma analise por Volume de vendas por fabricante, um compartivo em percentual do volume de segmento dos produtos mais vendidos e uma analise das vendas por categoria.
+**Link para acessar o dashboard no Power BI:** [Dashboard VendasGlobais](https://app.powerbi.com/view?r=eyJrIjoiMWNjMTgxN2QtODRmZi00N2I2LTk3ZGUtZmIyZDM0OTBiMWM2IiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9) vendas por fabricante, um compartivo em percentual do volume de segmento dos produtos mais vendidos e uma analise das vendas por categoria.
 
 2. Performance por produtos
 
