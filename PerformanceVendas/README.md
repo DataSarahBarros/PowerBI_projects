@@ -3,9 +3,9 @@
 ## Visão Geral
 O projeto Performance de Vendas tem como objetivo principal analisar o desempenho do time comercial de vendas, entrando no detalhe das vendas em um dashboard interativo com insights valiosos para tomada de decisões e estrategias.
 
-https://github.com/user-attachments/assets/a4743edf-9af7-4328-a19c-cd22d8caa7d1
+https://github.com/user-attachments/assets/e80579ae-5f7f-4690-af82-c299c0a418dd
 
-**Link para acessar o dashboard no Power BI:** [Dashboard VendasGlobais]([https://app.powerbi.com/view?r=eyJrIjoiMWNjMTgxN2QtODRmZi00N2I2LTk3ZGUtZmIyZDM0OTBiMWM2IiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9](https://github.com/user-attachments/assets/7fc2e6aa-fead-4302-a451-775936e934d1)) vendas por fabricante, um compartivo em percentual do volume de segmento dos produtos mais vendidos e uma analise das vendas por categoria.
+**Link para acessar o dashboard no Power BI:** [Dashboard VendasGlobais](https://app.powerbi.com/view?r=eyJrIjoiNzExODJkZDYtMjM2ZC00M2NmLWI4NmMtODUxMWZkMzljMDY1IiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9) vendas por fabricante, um compartivo em percentual do volume de segmento dos produtos mais vendidos e uma analise das vendas por categoria.
 
 2. Performance por produtos
 
