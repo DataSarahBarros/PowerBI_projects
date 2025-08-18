@@ -28,4 +28,3 @@ Analisando o desempenho por vendedor, como por exemplo o atingimento das metas p
 
 ## Conclusão
 
-
